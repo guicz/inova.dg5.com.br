@@ -43,3 +43,11 @@ next-env.d.ts
 # firebase
 firebase-debug.log
 firestore-debug.log
+
+# credentials
+drive.json
+service-account.json
+*.json
+!package*.json
+!components.json
+!tsconfig.json
